@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CRUD PHP dan MySQLi - WWW.MALASNGODING.COM</title>
+	<title>FORM input KARYAWAN</title>
 </head>
 <body>
 
