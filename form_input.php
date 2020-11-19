@@ -4,8 +4,7 @@
 	<title>FORM input KARYAWAN</title>
 </head>
 <body>
-
-	<h2>DATA KARYAWAN SMARTCITY</h2>
+	<h2>DATA KARYAWAN SMARTCITY KOTA BATU</h2>
 	<br/>
     <br/>
 	<a href="DTBSkaryawan.php">KEMBALI</a>
